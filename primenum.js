@@ -1,3 +1,5 @@
+
+//me and my collabaorator checked and changed the code
 function Prime(num) {
 
     if (num === 2) {
